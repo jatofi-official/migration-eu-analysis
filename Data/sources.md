@@ -4,4 +4,6 @@
   - Edited into Annual_population_eurostat(mandatory)
 - ### Monthly data + Yearly data
   - https://ec.europa.eu/eurostat/web/migration-asylum/asylum/database
+- ### country-region-codes
+  - https://dedolist.com/lists/location/country-region-codes/csv/
 - ### Ostatné
