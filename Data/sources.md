@@ -1,7 +1,6 @@
 # Sources
-- #### Annual_population_eurostat(mandatory)_raw.csv
+- #### Annual_population_eurostat(mandatory).csv
   - https://ec.europa.eu/eurostat/databrowser/product/page/MIGR_POP1CTZ
-  - Edited into Annual_population_eurostat(mandatory)
 - #### TODO: add sources for assylum, emigration and immigration
 - please Erik pls pls
 - ### geography_raw.geojson
