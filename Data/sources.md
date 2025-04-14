@@ -3,6 +3,7 @@
   - https://ec.europa.eu/eurostat/databrowser/product/page/MIGR_POP1CTZ
   - Edited into Annual_population_eurostat(mandatory)
 - #### TODO: add sources for assylum, emigration and immigration
+- please Erik pls pls
 - ### geography_raw.geojson
   - https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/countries
   - Edited into geography.geojson
