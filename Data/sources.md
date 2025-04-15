@@ -12,4 +12,22 @@
 - ### housing_prices.csv
   - https://ec.europa.eu/eurostat/databrowser/view/prc_hpi_q/default/table?lang=en
 
+- ### emigration_country_born.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_emi4ctb/default/table?lang=en&category=migr.migr_cit.migr_emi
+
+- ### assylum_applicants_annual.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_asyappctza/default/table?lang=en&category=migr.migr_asy.migr_asyapp
+
+- ### immigration_citizenship.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_imm1ctz/default/table?lang=en&category=migr.migr_cit.migr_immi
+
+- ### immigration_country_born.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_imm4ctb/default/table?lang=en&category=migr.migr_cit.migr_immi
+
+- ### immigration_development_citizenship.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_imm9ctz/default/table?lang=en&category=migr.migr_cit.migr_immi
+
+- ### immigration_development_country_born.csv
+https://ec.europa.eu/eurostat/databrowser/view/migr_imm10ctb/default/table?lang=en&category=migr.migr_cit.migr_immi
+
 - ### Ostatné
