@@ -19,12 +19,12 @@
         
 - **redo**
     * _emigration_country_born.csv_ 
-        + this table is chaotic, needs re-importing and subsequent reformatting
-    * _housing_prices.csv_
+        + this table is chaotic, needs explanation
+    * _housing_prices.csv_ [Adam]
         + this table needs serious work, melting quarterly data into yearly
         + could be worth considering to re-import the table with yearly data (if possible)
 - **add**
-  	* immigration_citizenship **EXPANDED**
+  	* immigration_citizenship **EXPANDED** [Erik]
 		+ import a much larger version of _immigration_citizenship.csv_ table
 		+ add all countries, edit them to group into regions
 			- Eastern Europe
@@ -41,17 +41,17 @@
 			- North America
 			- Latin America
 			- Australia & Oceania
-    * Crime statistics
+    * Crime statistics 
     * Economy: HDI, GDP (Nominal & PPP), welfare spending
     * religion data
-    * Slovakia data
+    * Slovakia data (Optional)
     
 ### To fix
-- Delete broken graphs
+- Delete broken graphs [Andrej]
     * many graphs have not enough data, making them useless clutter
     * change functions that generate graphs so that they filter and refuse to generate graphs that are not sufficient
     
-- fix wrong graph data
+- fix wrong graph data [Andrej]
     * numbers that make no sense
         
 ### What to do next
@@ -64,7 +64,7 @@
     * which countries gain/lose people due to migration
     * lots of maps
 
-- Why do people migrate to countries? [?]
+- Why do people migrate to countries? [Erik, Jakub]
     * Compare immigration in countries with:
         + GDP (Nominal, PPP)
         + HDI
@@ -72,21 +72,27 @@
         + employment
     * to prove the point that people migrate for economic reasons
     * compare for every country
+    * compare for all countries (or regions)
+    * add markers for important historical events
     
 - Consequences of migration [Adam ?]
     + how does migration affect:
         - housing prices
         - criminality
+        - economy
+        - unemployment
 
-- Asylum statistics [Aďo ?]
+- Asylum statistics [Aďo]
     * percentage accepted over the years, for every country
     * which groups are accepted 
-        + gender
         + age
-- Show situation in Slovakia
+    * compare with GDP
+- Comparison between specific countrie [Aďo]
+    * differences in specific countries
+- Show situation in Slovakia (Optional)
     * Which counties gain/lose people due to migration
     * GDP, HDI of regions
-    * 
+    
         
 
 ### Optional
