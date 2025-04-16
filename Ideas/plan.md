@@ -46,13 +46,9 @@
     * religion data
     * Slovakia data (Optional)
     
-### To fix
-- Delete broken graphs [Andrej]
-    * many graphs have not enough data, making them useless clutter
-    * change functions that generate graphs so that they filter and refuse to generate graphs that are not sufficient
-    
-- fix wrong graph data [Andrej]
-    * numbers that make no sense
+### To improve
+- readability of large numbers on most graphs [Andrej]
+
         
 ### What to do next
 - What type of migrants go to which country [Andrej ?]
