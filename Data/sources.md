@@ -39,4 +39,7 @@ https://ec.europa.eu/eurostat/databrowser/view/tps00191__custom_16259716/default
 - ### population.csv
 https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en&category=t_demo.t_demo_pop
 
+- ### permits.csv
+https://ec.europa.eu/eurostat/databrowser/view/tps00171__custom_16320208/default/table?lang=en
+
 - ### Ostatné
