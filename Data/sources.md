@@ -30,4 +30,13 @@ https://ec.europa.eu/eurostat/databrowser/view/migr_imm9ctz/default/table?lang=e
 - ### immigration_development_country_born.csv
 https://ec.europa.eu/eurostat/databrowser/view/migr_imm10ctb/default/table?lang=en&category=migr.migr_cit.migr_immi
 
+- ### assylum_applicants_accepted_raw.csv
+https://ec.europa.eu/eurostat/databrowser/view/tps00193/default/table?lang=en&category=t_migr.t_migr_asy
+
+- ### assylum_applicants_raw.csv
+https://ec.europa.eu/eurostat/databrowser/view/tps00191__custom_16259716/default/table?lang=en
+
+- ### population.csv
+https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en&category=t_demo.t_demo_pop
+
 - ### Ostatné
