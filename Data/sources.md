@@ -42,4 +42,7 @@ https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en&ca
 - ### permits.csv
 https://ec.europa.eu/eurostat/databrowser/view/tps00171__custom_16320208/default/table?lang=en
 
+- ### GDP_per_capita_in_PPS.csv
+https://ec.europa.eu/eurostat/databrowser/view/tec00114__custom_16411605/default/table?lang=en
+
 - ### Ostatné
