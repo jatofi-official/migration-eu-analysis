@@ -24,7 +24,7 @@
         + this table needs serious work, melting quarterly data into yearly
         + could be worth considering to re-import the table with yearly data (if possible)
 - **add**
-  	* immigration_citizenship **EXPANDED** [Erik]
+  	* immigration_citizenship **EXPANDED** [Erik, Jakub]
 		+ import a much larger version of _immigration_citizenship.csv_ table
 		+ add all countries, edit them to group into regions
 			- Eastern Europe
@@ -47,20 +47,21 @@
     * Slovakia data (Optional)
     
 ### To improve
-- readability of large numbers on most graphs [Andrej]
+- Improvement of country label readability on asylum graphs + shortening EU label
 
         
 ### What to do next
 - What type of migrants go to which country [Andrej ?]
     * age, gender, origin country
     * map, pie charts
-
-- Describe flow of migrants [?]
+    * flow chart
+    
+- Describe flow of migrants [Jakub]
     * show the flow of migrants on a map
     * which countries gain/lose people due to migration
     * lots of maps
 
-- Why do people migrate to countries? [Erik, Jakub]
+- Why do people migrate to countries? [Erik, Aďo]
     * Compare immigration in countries with:
         + GDP (Nominal, PPP)
         + HDI
@@ -71,25 +72,29 @@
     * compare for all countries (or regions)
     * add markers for important historical events
     
-- Consequences of migration [Adam ?]
+- Consequences of migration [Adam]
     + how does migration affect:
         - housing prices
         - criminality
         - economy
         - unemployment
 
+
+- Comparison between specific countrie [Aďo]
+    * differences in specific countries
+    
+- Show situation in Slovakia (Optional)
+    * Which counties gain/lose people due to migration
+    * GDP, HDI of regions
+    
+- generate more asylum countries + save graphs to file [Aďo]
+    
+### Done
 - Asylum statistics [Aďo]
     * percentage accepted over the years, for every country
     * which groups are accepted 
         + age
     * compare with GDP
-- Comparison between specific countrie [Aďo]
-    * differences in specific countries
-- Show situation in Slovakia (Optional)
-    * Which counties gain/lose people due to migration
-    * GDP, HDI of regions
-    
-        
 
 ### Optional
 - Second-level subdivisions
