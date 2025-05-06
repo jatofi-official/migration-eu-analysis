@@ -44,14 +44,13 @@
     * Crime statistics 
     * Economy: HDI, GDP (Nominal & PPP), welfare spending
     * religion data
-    * Slovakia data (Optional)
     
 ### To improve
 - Improvement of country label readability on asylum graphs + shortening EU label
 
         
 ### What to do next
-- What type of migrants go to which country [Andrej ?]
+- What type of migrants go to which country [Andrej]
     * age, gender, origin country
     * map, pie charts
     * flow chart
@@ -83,7 +82,7 @@
 - Comparison between specific countrie [Aďo]
     * differences in specific countries
     
-- Show situation in Slovakia (Optional)
+- Show situation in Slovakia [Jakub]
     * Which counties gain/lose people due to migration
     * GDP, HDI of regions
     
