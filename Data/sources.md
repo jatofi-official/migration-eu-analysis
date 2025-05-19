@@ -46,7 +46,7 @@
   - https://ec.europa.eu/eurostat/databrowser/view/tec00114__custom_16411605/default/table?lang=en
 
 - ### Data/slovakia
-  - datacube
+  - https://datacube.statistics.sk
 
 - ### slovak_districts.json
   - https://www.geoportal.sk/sk/zbgis_smd/na-stiahnutie/
